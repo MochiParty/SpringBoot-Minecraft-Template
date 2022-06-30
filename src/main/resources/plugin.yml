@@ -1,0 +1,5 @@
+name: SpringBootMinecraft
+version: '${project.version}'
+main: com.ayou.springboot.minecraft.SpringBootPluginTemplate
+authors: [ Ayou ]
+description: "整合SpringBoot框架的Minecraft插件模板"
